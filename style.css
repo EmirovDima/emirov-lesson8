@@ -1,0 +1,52 @@
+
+.container {
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+.buttom {
+    background-color: #8f5cef;
+    display: block;
+    color: black;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none
+    border-radius: 12px;
+    line-height: 50px;
+        }
+.buttom:hover {
+    background-color: #6617f5;
+    color: white;
+}
+
+.card {
+    background-color: #09d41a;
+    display: block;
+    color: black;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none border-radius: 12px;
+    line-height: 50px;
+    }
+
+.card:hover {
+    background-color: rgb(4, 110, 13);
+    color: white;
+}
+.bord {
+    background-color: #d43e3e;
+    display: block;
+    color: black;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none border-radius: 12px;
+    line-height: 50px;
+    }
+
+.bord:hover {
+    background-color: rgb(172, 6, 6);
+    color: white;
+}
